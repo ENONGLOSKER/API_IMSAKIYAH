@@ -11,7 +11,7 @@
 - untuk melihat semua data          : http://127.0.0.1:8000/jadwals/
 ![alt text](https://github.com/ENONGLOSKER/api_imsak_UTS/blob/master/foto/jadwals.png?raw=true)
 - untuk membuat/input data baru     : http://127.0.0.1:8000/jadwals/
-![alt text](https://github.com/ENONGLOSKER/api_imsak_UTS/blob/master/foto/create.pngg?raw=true)
+![alt text](https://github.com/ENONGLOSKER/api_imsak_UTS/blob/master/foto/create.png?raw=true)
 - untuk melihat detail/satu data    : http://127.0.0.1:8000/jadwal/(id)
 ![alt text](https://github.com/ENONGLOSKER/api_imsak_UTS/blob/master/foto/detail.png?raw=true)
 - untuk mengedit data               : http://127.0.0.1:8000/jadwal/(id)
