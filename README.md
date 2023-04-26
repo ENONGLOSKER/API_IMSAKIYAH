@@ -1,5 +1,5 @@
 # PANDUAN INSTALSI
-- install python                              : kunjungi situs resmi di
+- install python                              : kunjungi situs resmi di https://www.python.org/downloads/
 - buat env                                    : python -m venv env
 - aktivkan env                                : env\scripts\activate
 - install django dan django rest framework    : pip install django djangorestframework
