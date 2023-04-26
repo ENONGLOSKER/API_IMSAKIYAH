@@ -20,5 +20,5 @@
 ![alt text](https://github.com/ENONGLOSKER/api_imsak_UTS/blob/master/foto/delete.png?raw=true)
 
 # PENJELASAN
-- sumber data : https://drive.google.com/drive/folders/1N-FslH9BL8HkFBm3zlDRuEr6X7j0oFXQ?usp=sharing
-- kode        : https://drive.google.com/file/d/1I86DBPiTvkzOjLR30ZTOZxYPIHqLk9JG/view?usp=share_link
+- sumber data     : https://drive.google.com/drive/folders/1N-FslH9BL8HkFBm3zlDRuEr6X7j0oFXQ?usp=sharing
+- kode (file PDF) : https://drive.google.com/file/d/1I86DBPiTvkzOjLR30ZTOZxYPIHqLk9JG/view?usp=share_link
