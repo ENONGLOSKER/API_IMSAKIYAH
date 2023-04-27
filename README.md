@@ -21,4 +21,4 @@
 
 # PENJELASAN
 - sumber data     : https://drive.google.com/drive/folders/1N-FslH9BL8HkFBm3zlDRuEr6X7j0oFXQ?usp=sharing
-- kode (file PDF) : https://drive.google.com/file/d/1I86DBPiTvkzOjLR30ZTOZxYPIHqLk9JG/view?usp=share_link
+- kode (file PDF) : https://drive.google.com/file/d/1f1Xv1tYOqiekcvylgdLlPW3il32Zh_uV/view?usp=sharing
